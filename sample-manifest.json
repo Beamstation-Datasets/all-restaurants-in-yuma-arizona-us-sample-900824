@@ -1,12 +1,12 @@
 {
-  "export_job_id": "bb5dba25-ddfc-4f18-ad5e-217f6a878de9",
+  "export_job_id": "9ab5ed0c-272d-4dae-b727-4850c44ddeda",
   "id_short": 900824,
-  "published_at": "2026-04-23T19:15:02Z",
+  "published_at": "2026-04-30T19:18:30Z",
   "repo_name": "all-restaurants-in-yuma-arizona-us-sample-900824",
   "sample_asset_name": "beamstation_900824_restaurants-us-az_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/900824/beamstation_900824_restaurants-us-az_SAMPLE_DIST.csv",
-  "sample_records": 31,
-  "sample_sha256": "42b32e8e9988dd6cdf080baec9aef56702f41f3b026b80e7f818f6851fe86ff8",
-  "sample_size_bytes": 137602,
-  "total_records": 315
+  "sample_records": 39,
+  "sample_sha256": "861279d1aef7457a759a4562e282271710a505a6749dfa993b6c5e7bda6500ec",
+  "sample_size_bytes": 117172,
+  "total_records": 392
 }
